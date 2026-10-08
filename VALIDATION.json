@@ -1,0 +1,10 @@
+{
+  "unit_tests": "22 passed on 2026-10-08; including consecutive format + tracking repair, report candidate cap and launcher",
+  "sdk_transport": "Actual OpenAI SDK 2.54.0 with httpx mock transport; strict schema and images serialized; no external model request",
+  "real_video_replay": "Both KakaoTalk 40-51/40-37 files processed with previous reviewed ROI fixture; base low ratio2.221; neck/base-edge excluded",
+  "synthetic_demo": "Known23.4Hz target with camera shake recovered; two provider stages; report output verified",
+  "live_api_inference": "One user-run paired fan-video experiment completed on 2026-10-08 with gpt-6-luna: ROI -> tracking repair -> measurements -> diagnosis, two inspection candidates. This validates integration, not diagnosis accuracy.",
+  "api_model_default": "gpt-6-astra configurable",
+  "source_origin": "Existing fan-video-vibration measurement core copied under vendor with tracks export",
+  "shared_settings_template_model": "gpt-6-luna"
+}
